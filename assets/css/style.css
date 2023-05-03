@@ -1,0 +1,25 @@
+.navbar-brand img{
+    height: 40px;
+}
+
+#top button{
+    color: white;
+}
+
+#topFirst{
+    border-bottom: 1px solid grey;
+}
+
+#center img{
+    height: auto;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+#center .card{
+    overflow: hidden;
+}
+
+#centerBottom .card{
+    overflow: hidden;
+}
